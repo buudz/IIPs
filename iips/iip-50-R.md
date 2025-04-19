@@ -6,7 +6,7 @@ sponsor: HappyBallz
 key contributors: Dr.Spoon, Paz, Jaganite
 discussions-to: https://discord.com/channels/760344898200666112/1229734551006216193
 ---
-
+ 
 ## Simple Summary:
 To enhance interoperability and player experience, I propose the introduction of training gyms for Illuvials within Illuvium Zero, allowing for XP growth and a greater sink for elements and Fuel.
 
